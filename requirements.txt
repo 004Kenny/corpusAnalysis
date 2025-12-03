@@ -5,3 +5,4 @@ beautifulsoup4
 pdfminer.six
 matplotlib
 wordcloud
+nltk
